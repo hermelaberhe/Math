@@ -9,6 +9,6 @@ public class Main {
         System.out.println(wholeNumber);
         System.out.println(Math.ceil(value)); //round up no matter what
         System.out.println(Math.floor(value)); //round down no matter what
-
+    // try
     }
 }
